@@ -139,17 +139,6 @@ We welcome collaboration from:
 
 ---
 
-## 📊 GitHub Stats
-
-![HackerHub8 GitHub Stats](https://github-readme-stats.vercel.app/api?username=hacker-hub8&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hacker-hub8&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-hub8&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repositories
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=hacker-hub8&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 📜 License
 
 Open-source projects in this repository are distributed under the [MIT License](LICENSE).
@@ -161,8 +150,6 @@ Open-source projects in this repository are distributed under the [MIT License](
 ⭐ **If HackerHub8's work helps you, please Star this repo and Follow us!**
 
 *Let's build a safer digital world together — one tool, one post, one hack at a time.*
-
-[![Visitors](https://visitcount.itsvg.in/api?id=hacker-hub8&icon=0&color=0)](https://visitcount.itsvg.in)
 
 © 2019–2026 HackerHub8 LLP. All rights reserved.
 
